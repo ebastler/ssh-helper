@@ -1,5 +1,5 @@
 # ssh-helper - a small console frontend for ~/.ssh/config
-This application consists of a simple shell skript, which polls your ~/.ssh/config (or wherever your config may lie, path can be changed in one of the first lines), lists all hosts and then offers a prompt to select the desired host by typing a number. It may not be not the first and definitely not the last application created for this usecase, but it's slim, and does its job.
+This application consists of a simple shell skript, which polls your ~/.ssh/config (or wherever your config may lie, path can be changed in one of the first lines), lists all hosts and then offers a prompt to select the desired host by typing a number. It may not be the first and definitely not the last application created for this usecase, but it's slim, and does its job.
 
 ### Prerequisites
 - openssh
